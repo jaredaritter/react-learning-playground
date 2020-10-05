@@ -36,3 +36,37 @@
     transform: rotate(360deg);
   }
 }
+
+.blue {
+  background-color: aquamarine;
+}
+
+.white {
+  background-color: white;
+}
+
+.nested {
+  margin: 10px;
+}
+
+.square {
+  height: 100px;
+  width: 100px;
+  background-color: cadetblue;
+  margin: 5px;
+  display: inline-block;
+}
+
+.square:hover {
+  background-color: white;
+}
+
+.border {
+  border: 2px gray solid;
+  margin: 5px;
+  padding: 5px;
+}
+
+.red {
+  color: salmon;
+}

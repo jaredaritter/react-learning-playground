@@ -1,3 +1,5 @@
+Personal use React repo for practice and learning. A place to try to break things and figure out how they work.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
