@@ -1,4 +1,4 @@
-Personal use React repo for practice and learning. A place to try to break things and figure out how they work.
+Personal use React repo for practice and learning. A place to try to break things and figure out how they work. Leaving initial CRA README up as they are still relevant.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
